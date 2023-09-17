@@ -35,7 +35,7 @@ git clone https://github.com/eps-zero/Daily-Tasks-Qt.git
 2. Navigate to the project directory:
 
 ```bash
-cd daily-tasks-app
+cd Daily-Tasks-Qt
 ```
 
 3. Run the application:
